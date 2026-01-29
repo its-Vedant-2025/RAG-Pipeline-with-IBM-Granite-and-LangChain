@@ -33,10 +33,6 @@ This pipeline ensures AI references **verified documents** (like the State of th
 
 ---
 
-## 📝 Example
-**Question:** What did the president say about Ketanji Brown Jackson?  
-**AI Answer:** *[Output from pipeline]* ✅
-
 ---
 
 ## 🎓 Certifications & Learning
